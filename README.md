@@ -1,6 +1,6 @@
-# network-sniffer
+# Packet Sniffer
 
-This is a Python script for a simple packet and network sniffer that captures and displays Ethernet, IPv4, TCP, UDP, and ICMP packets.
+This is a Python script for a simple packet sniffer that captures and displays Ethernet, IPv4, TCP, UDP, and ICMP packets.
 
 ## Features
 
@@ -17,8 +17,8 @@ This is a Python script for a simple packet and network sniffer that captures an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sabari038/network-sniffer.git
-   cd network-sniffer
+   git clone https://github.com/sabari038/packet-sniffer.git
+   cd packet-sniffer
 2. Install dependencies using pip:
    ```bash
    pip install -r requirements.txt
