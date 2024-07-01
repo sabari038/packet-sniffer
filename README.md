@@ -18,6 +18,7 @@ This is a Python script for a simple packet sniffer that captures and displays E
 1. Clone the repository:
    ```bash
    git clone https://github.com/sabari038/packet-sniffer.git
+   mkdir packet-sniffer
    cd packet-sniffer
 2. Install dependencies using pip:
    ```bash
